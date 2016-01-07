@@ -27,19 +27,21 @@
           <root url="file://$MODULE_DIR$/main" />
           <root url="file://$MODULE_DIR$/test/lib/googletest/googlemock/include" />
           <root url="file://$MODULE_DIR$/test/lib/googletest/googletest/include" />
-          <root url="file://C:/cygwin64/lib/gcc/x86_64-pc-cygwin/4.9.2/include" />
-          <root url="file://C:/cygwin64/lib/gcc/x86_64-pc-cygwin/4.9.2/include-fixed" />
+          <root url="file://C:/cygwin64/lib/gcc/x86_64-pc-cygwin/4.9.3/include" />
+          <root url="file://C:/cygwin64/lib/gcc/x86_64-pc-cygwin/4.9.3/include-fixed" />
           <root url="file://C:/cygwin64/usr/include" />
           <root url="file://C:/cygwin64/usr/local/include" />
+          <root url="file://C:/opt/boost_1_60_0" />
         </CLASSES>
         <SOURCES>
           <root url="file://$MODULE_DIR$/main" />
           <root url="file://$MODULE_DIR$/test/lib/googletest/googlemock/include" />
           <root url="file://$MODULE_DIR$/test/lib/googletest/googletest/include" />
-          <root url="file://C:/cygwin64/lib/gcc/x86_64-pc-cygwin/4.9.2/include" />
-          <root url="file://C:/cygwin64/lib/gcc/x86_64-pc-cygwin/4.9.2/include-fixed" />
+          <root url="file://C:/cygwin64/lib/gcc/x86_64-pc-cygwin/4.9.3/include" />
+          <root url="file://C:/cygwin64/lib/gcc/x86_64-pc-cygwin/4.9.3/include-fixed" />
           <root url="file://C:/cygwin64/usr/include" />
           <root url="file://C:/cygwin64/usr/local/include" />
+          <root url="file://C:/opt/boost_1_60_0" />
         </SOURCES>
         <excluded>
           <root url="file://$MODULE_DIR$/main/src/OrderBook.h" />
