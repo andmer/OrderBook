@@ -38,3 +38,12 @@ TEST(tests, OrderBookRemove) {
     book.remove_bid(123, 455);
     EXPECT_TRUE(book.is_empty());
 }
+
+TEST(tests, Spread) {
+    OrderBook book;
+    book.add_ask(100, 100);
+    book.add_bid(98, 100);
+
+    auto spread = book.get_bid_ask().spread();
+    EXPECT_EQ(2, spread.get());
+}
